@@ -4,15 +4,16 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkumarsingh01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkumarsingh01" alt="sushantkumarsingh01" /></a> </p>
-
 - 🌱 I’m currently learning **Python , Java , HTML ,CSS , RECAT JS , NODE JS , PYSpark ,**
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
 - 📫 How to reach me **Stay tuned**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkumarsingh01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkumarsingh01" alt="sushantkumarsingh01" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
