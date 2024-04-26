@@ -1,9 +1,10 @@
 ![logo](https://github.com/Sushantkumarsingh01/work1/blob/main/HD-wallpaper-technology-code-programming-programmer.jpg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=500&size=30&pause=1000&color=F70F40&center=true&random=true&width=435&lines=Hi+!++Sushant+Here+;I'm+a++full-stack+developer" alt="Typing SVG" /></a>
-<h1 align="center">"Make it work, make it right, make it fast"</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=500&size=30&pause=1000&color=F70F40&center=true&random=true&width=435&lines=Hi+!++Sushant+Here+;I'm+a++full-stack+developer" alt="Typing SVG" /></a> 
+<h1 align="center">"Make it work, make it right, make it fast"<img src="https://raw.githubusercontent.com/Sushantkumarsingh01/work1/main/STK-20240426-WA0001.webp?token=GHSAT0AAAAAACRQFLPCDY4XGYSHLOK762PUZRLKMNQ" width="200" height="200"></h1>
+
 <h3 align="center"><em>A Passionate Frontend Developer</em></h3>
-<p style="margin-bottom: 20px;"></p>
-<p>.</p>
+<br>
+<br>
 
 
 <img align="right" alt="Coding" width="400" hight="300"
@@ -14,15 +15,15 @@ src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d5325
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
-- 📫 How to reach me **Stay tuned**
-<p style="margin-bottom: 20px;"></p>
-<p></p>
+- 📫 How to reach me ** "Stay tuned 😀"**
 
 
 
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkumarsingh01" /> </p>
-<p style="margin-bottom: 20px;"></p>
-<p></p>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantkumarsingh01" alt="sushantkumarsingh01" /></a> </p>
 
 
