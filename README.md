@@ -1,7 +1,7 @@
 ![logo](https://github.com/AdarshScribes/AdarshScribes/blob/main/Green%20Watercolour%20Opening%20Soon%20Banner.jpeg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=500&size=30&pause=1000&color=F70F40&center=true&vCenter=true&random=false&width=435&lines=Hi+!++Sushant+Here+;I'm+a++full-stack+developer" alt="Typing SVG" /></a>
-<h1 align="center">Hi 👋, I'm Sushant Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">"Make it work, make it right, make it fast"</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkumarsingh01" /> </p>
