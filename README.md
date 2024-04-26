@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sushantkumarsingh01/work1/blob/main/HD-wallpaper-technology-code-programming-programmer.jpg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=500&size=30&pause=1000&color=F70F40&center=true&random=true&width=435&lines=Hi+!++Sushant+Here+;I'm+a++full-stack+developer" alt="Typing SVG" /></a> 
-<h1 align="center">"Make it work, make it right, make it fast"<img src="https://raw.githubusercontent.com/Sushantkumarsingh01/work1/main/STK-20240426-WA0001.webp?token=GHSAT0AAAAAACRQFLPCDY4XGYSHLOK762PUZRLKMNQ" width="200" height="200"></h1>
+<h1 align="center">"Make it work, make it right, make it fast"<img src="https://raw.githubusercontent.com/Sushantkumarsingh01/work1/main/STK-20240426-WA0001.webp?token=GHSAT0AAAAAACRQFLPCOU367DRAKETSWJTYZRLLG6Q" width="200" height="200"></h1>
 
 <h3 align="center"><em>A Passionate Frontend Developer</em></h3>
 <br>
