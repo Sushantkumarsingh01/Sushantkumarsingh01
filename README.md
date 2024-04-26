@@ -5,7 +5,8 @@
 
 <img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966">
 
-- 🌱 I’m currently learning **Python , Java , HTML ,CSS , RECAT JS , NODE JS , PYSpark ,**
+
+- 🌱 I’m currently learning **Python ,Java ,HTML,CSS,RECAT JS,NODE JS,,**
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
