@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](https://github.com/AdarshScribes/AdarshScribes/blob/main/Green%20Watercolour%20Opening%20Soon%20Banner.jpeg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=800&size=31&pause=1000&color=F31C4A&center=true&vCenter=true&random=false&width=435&lines=I'm+Adarsh+Choudhary.;I'm+a+Coder.;I'm+a+Full-Stack+Developer.;I'm+a+Front-End+Developer." alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Sushant Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/anime-boy-is-coding_1040322-5696.jpg">
