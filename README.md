@@ -1,14 +1,16 @@
 ![logo](https://github.com/Sushantkumarsingh01/work1/blob/main/HD-wallpaper-technology-code-programming-programmer.jpg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=500&size=30&pause=1000&color=F70F40&center=true&random=true&width=435&lines=Hi+!++Sushant+Here+;I'm+a++full-stack+developer" alt="Typing SVG" /></a>
 <h1 align="center">"Make it work, make it right, make it fast"</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966">
+<h3 align="center"><em>A Passionate Frontend Developer</em></h3>
+
+<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966">
 
 - 🌱 I’m currently learning **Python , Java , HTML ,CSS , RECAT JS , NODE JS , PYSpark ,**
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
 - 📫 How to reach me **Stay tuned**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantkumarsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="sushantkumarsingh01" /> </p>
 
